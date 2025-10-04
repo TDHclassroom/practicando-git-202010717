@@ -1,4 +1,4 @@
-# Ejercicio 2: Crear archivos y hacer primer commit
+gi# Ejercicio 2: Crear archivos y hacer primer commit
 
 ## Objetivo
 Aprender a crear archivos, añadirlos al área de staging y hacer tu primer commit.
